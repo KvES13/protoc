@@ -1,4 +1,4 @@
-module github.com/KvES13/auth
+module github.com/KvES13/protoc
 
 go 1.21.3
 
